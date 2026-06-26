@@ -1,2 +1,0 @@
-name:"Ashish"
-location:"Sangli"
